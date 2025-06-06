@@ -2,16 +2,15 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: PhD Student at <a href='#'>Seoul National University</a>. 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: JinukMoon.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>jumoon@snu.ac.kr</p>
+    <p>Seoul National University</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -22,13 +21,17 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+<p>I am a passionate researcher dedicated to advancing the field of computational catalysis through innovative machine learning approaches. At the Computational Catalysis and Emerging Materials Laboratory (CCEL) under the guidance of Professor Jeong Woo Han at Seoul National University, I focus on developing novel catalysts and methodologies that bridge the gap between traditional computational methods and modern machine learning techniques.</p>
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+<p>My research specifically targets the enhancement of density functional theory (DFT) and molecular dynamics (MD) simulations using machine learning algorithms, aiming to overcome the computational limitations of conventional methods and enable more efficient catalyst design and optimization.</p>
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+<p>I completed my undergraduate studies at POSTECH in 2023, where I developed a strong foundation in materials science and computational methods. Currently, I am pursuing my PhD at Seoul National University, where I continue to expand my expertise in machine learning applications for catalysis research.</p>
+
+<p>Beyond my academic pursuits, I maintain a balanced lifestyle through various interests. I am an avid sports enthusiast, both as a spectator and participant, and find relaxation in music and cinema. These activities not only provide a creative outlet but also help me maintain a fresh perspective in my research work.</p>
+
+<p>I am always excited to connect with fellow researchers and discuss potential collaborations. Whether you're interested in computational catalysis, machine learning applications, or simply want to exchange ideas, feel free to reach out through LinkedIn or email. I look forward to engaging in meaningful scientific discussions and potential collaborations!</p>
