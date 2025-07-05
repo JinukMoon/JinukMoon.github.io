@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Student at <a href='#'>Seoul National University</a>. 
+subtitle: PhD Student at <a href='#'>Seoul National University</a>.
 
 profile:
   align: right

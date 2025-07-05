@@ -4,9 +4,9 @@
 
 title: Jinuk Moon # the website title (if blank, full name will be used instead)
 first_name: Jinuk
-middle_name: 
+middle_name:
 last_name: Moon
-github: JinukMoon  # GitHub 사용자 이름 추가
+github: JinukMoon # GitHub 사용자 이름 추가
 contact_note: >
   PhD Student in Machine Learning and Computational Catalysis
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -649,6 +649,6 @@ social:
   links:
     - https://www.linkedin.com/in/jinukmoon
     - https://github.com/JinukMoon
-    - https://orcid.org/0009-0007-6236-0449  # ORCID ID를 실제 ID로 변경해주세요
+    - https://orcid.org/0009-0007-6236-0449 # ORCID ID를 실제 ID로 변경해주세요
     - icon: ai ai-google-scholar
-      link: https://scholar.google.com/citations?user=9Ueds-EAAAAJ  # Google Scholar ID를 실제 ID로 변경해주세요
+      link: https://scholar.google.com/citations?user=9Ueds-EAAAAJ # Google Scholar ID를 실제 ID로 변경해주세요
