@@ -396,7 +396,7 @@ ninja.data = [{
           title: 'Our research on understanding the oxygen evolution reaction mechanism in Ruthenium Oxide has...',
           description: "",
           section: "News",},{id: "news-i-have-been-selected-as-a-recipient-of-the-presidential-science-scholarship-of-south-korea-for-phd-students-i-will-continue-to-work-hard-on-my-research-with-this-great-honor",
-          title: 'I have been selected as a recipient of the [Presidential Science Scholarship] of...',
+          title: 'I have been selected as a recipient of the Presidential Science Scholarship of...',
           description: "",
           section: "News",},{id: "news-our-collaborative-research-on-strategic-design-of-oxophilic-dopants-for-alkaline-hydrogen-evolution-reaction-has-been-published-in-advanced-functional-materials",
           title: 'Our collaborative research on strategic design of oxophilic dopants for alkaline hydrogen evolution...',
