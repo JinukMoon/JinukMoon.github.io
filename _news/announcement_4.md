@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper on theoretical tuning of metal-nitrogen doped carbon catalysts for selective chlorine-evolution reaction has been published in **<u>Catalysis Today</u>**.
+Our paper on **<u>theoretical tuning of metal-nitrogen doped carbon catalysts</u>** for selective chlorine-evolution reaction has been published in [**<u>Catalysis Today</u>**](https://doi.org/10.1016/j.cattod.2023.114358).
