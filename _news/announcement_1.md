@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our **<u>review paper</u>** titled "Rise of machine learning potentials in heterogeneous catalysis: Developments, applications, and prospects" has been published in [**<u>Chemical Engineering Journal</u>**](https://doi.org/10.1016/j.cej.2024.152757).
+Our <u>review paper</u> titled "<u>Rise of machine learning potentials in heterogeneous catalysis: Developments, applications, and prospects</u>" has been published in [**<u>Chemical Engineering Journal</u>**](https://doi.org/10.1016/j.cej.2024.152757).
