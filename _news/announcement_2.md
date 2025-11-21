@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-05-08 00:00:00+0900
+date: 2025-05-08 00:00:00-0500
 inline: true
 related_posts: false
 ---
 
-Our research on understanding the oxygen evolution reaction mechanism in Ruthenium Oxide has been published in Chem as a first-author paper!
+Our research on understanding the oxygen evolution reaction mechanism in Ruthenium Oxide has been published in **<u>Chem</u>** as a first-author paper!
