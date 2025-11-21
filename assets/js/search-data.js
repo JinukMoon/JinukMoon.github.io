@@ -45,17 +45,6 @@ ninja.data = [{
             window.location.href = "/blog/2024/photo-gallery/";
           
         },
-      },{id: "post-google-gemini-updates-flash-1-5-gemma-2-and-project-astra",
-        
-          title: 'Google Gemini updates: Flash 1.5, Gemma 2 and Project Astra <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-        
-        description: "We’re sharing updates across our Gemini family of models and a glimpse of Project Astra, our vision for the future of AI assistants.",
-        section: "Posts",
-        handler: () => {
-          
-            window.open("https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/", "_blank");
-          
-        },
       },{id: "post-a-post-with-tabs",
         
           title: "a post with tabs",
@@ -276,17 +265,6 @@ ninja.data = [{
             window.location.href = "/blog/2022/giscus-comments/";
           
         },
-      },{id: "post-displaying-external-posts-on-your-al-folio-blog",
-        
-          title: 'Displaying External Posts on Your al-folio Blog <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
-          
-        },
       },{id: "post-a-post-with-redirect",
         
           title: "a post with redirect",
@@ -391,7 +369,13 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-our-review-paper-titled-rise-of-machine-learning-potentials-in-heterogeneous-catalysis-developments-applications-and-prospects-has-been-published-in-chemical-engineering-journal",
+            },},{id: "news-our-research-on-catalyst-deactivation-mechanism-in-non-oxidative-dehydrogenation-using-dft-and-kinetic-monte-carlo-has-been-published-in-catalysis-today",
+          title: 'Our research on catalyst deactivation mechanism in non-oxidative dehydrogenation using DFT and kinetic...',
+          description: "",
+          section: "News",},{id: "news-our-paper-on-theoretical-tuning-of-metal-nitrogen-doped-carbon-catalysts-for-selective-chlorine-evolution-reaction-has-been-published-in-catalysis-today",
+          title: 'Our paper on theoretical tuning of metal-nitrogen doped carbon catalysts for selective chlorine-evolution...',
+          description: "",
+          section: "News",},{id: "news-our-review-paper-titled-rise-of-machine-learning-potentials-in-heterogeneous-catalysis-developments-applications-and-prospects-has-been-published-in-chemical-engineering-journal",
           title: 'Our review paper titled “Rise of machine learning potentials in heterogeneous catalysis: Developments,...',
           description: "",
           section: "News",},{id: "news-our-research-on-understanding-the-oxygen-evolution-reaction-mechanism-in-ruthenium-oxide-has-been-published-in-chem-as-a-first-author-paper",
@@ -399,6 +383,15 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-i-have-been-selected-as-a-recipient-of-the-presidential-science-scholarship-of-south-korea-for-phd-students-i-will-continue-to-work-hard-on-my-research-with-this-great-honor",
           title: 'I have been selected as a recipient of the Presidential Science Scholarship of...',
+          description: "",
+          section: "News",},{id: "news-our-collaborative-research-on-strategic-design-of-oxophilic-dopants-for-alkaline-hydrogen-evolution-reaction-has-been-published-in-advanced-functional-materials",
+          title: 'Our collaborative research on strategic design of oxophilic dopants for alkaline hydrogen evolution...',
+          description: "",
+          section: "News",},{id: "news-i-am-thrilled-to-announce-that-our-first-author-paper-catbench-a-benchmark-framework-for-machine-learning-interatomic-potentials-in-heterogeneous-catalysis-has-been-published-in-cell-reports-physical-science",
+          title: 'I am thrilled to announce that our first-author paper “CatBench: A benchmark framework...',
+          description: "",
+          section: "News",},{id: "news-our-paper-on-designing-realistic-single-atom-catalysts-through-machine-learning-interatomic-potentials-has-been-published-in-acs-energy-letters",
+          title: 'Our paper on designing realistic single atom catalysts through machine learning interatomic potentials...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
