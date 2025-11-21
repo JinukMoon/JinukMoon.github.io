@@ -40,9 +40,6 @@
         {% endif %}
       {% endif %}
       {% if entry.preview %}
-        {% if publication_url %}
-          <a href="{{ publication_url }}" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-        {% endif %}
         {% if entry.preview contains '://' %}
           <img class="preview z-depth-1 rounded" src="{{ entry.preview }}">
         {% else %}
@@ -57,9 +54,6 @@
             avoid_scaling=true
             alt=entry.preview
           %}
-        {% endif %}
-        {% if publication_url %}
-          </a>
         {% endif %}
       {% endif %}
     </div>
