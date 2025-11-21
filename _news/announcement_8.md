@@ -1,0 +1,8 @@
+---
+layout: post
+date: 2025-11-18 00:00:00+0900
+inline: true
+related_posts: false
+---
+
+Our paper on designing realistic single atom catalysts through machine learning interatomic potentials has been published in ACS Energy Letters.
