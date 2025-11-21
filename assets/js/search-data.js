@@ -24,11 +24,11 @@ ninja.data = [{
             window.location.href = "/https:/www.catbench.org/";
           },
         },{id: "nav-cv",
-          title: "cv",
+          title: "CV",
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/cv/";
+            window.location.href = "/assets/pdf/CV_JinukMoon_Nov21_2025.pdf";
           },
         },{id: "nav-repositories",
           title: "repositories",
