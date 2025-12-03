@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our research on <u>catalyst deactivation mechanism in non-oxidative dehydrogenation using DFT and kinetic Monte Carlo</u> has been published in [**<u>Catalysis Today</u>**](https://doi.org/10.1016/j.cattod.2022.06.034).
+Our research on catalyst deactivation mechanism in non-oxidative dehydrogenation using DFT and kinetic Monte Carlo has been published in [**<u>Catalysis Today</u>**](https://doi.org/10.1016/j.cattod.2022.06.034).

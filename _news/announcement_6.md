@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am thrilled to announce that our first-author paper "[<u>CatBench: A benchmark framework for machine learning interatomic potentials in heterogeneous catalysis</u>](https://www.catbench.org/)" has been published in [**<u>Cell Reports Physical Science</u>**](https://doi.org/10.1016/j.xcrp.2025.102968)!
+I am thrilled to announce that our first-author paper "[CatBench: A benchmark framework for machine learning interatomic potentials in heterogeneous catalysis](https://www.catbench.org/)" has been published in [**<u>Cell Reports Physical Science</u>**](https://www.cell.com/cell-reports-physical-science/fulltext/S2666-3864(25)00567-3)!
