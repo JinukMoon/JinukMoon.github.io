@@ -1,15 +1,15 @@
 ---
 ---
-{% comment %}Determine the primary URL for the publication (priority: DOI > html > website){% endcomment %}
+{% comment %}Determine the primary URL for the publication (priority: html > DOI > website){% endcomment %}
 {% assign publication_url = null %}
-{% if entry.doi %}
-  {% assign publication_url = entry.doi | prepend: 'https://doi.org/' %}
-{% elsif entry.html %}
+{% if entry.html %}
   {% if entry.html contains '://' %}
     {% assign publication_url = entry.html %}
   {% else %}
     {% assign publication_url = entry.html | prepend: '/assets/html/' | relative_url %}
   {% endif %}
+{% elsif entry.doi %}
+  {% assign publication_url = entry.doi | prepend: 'https://doi.org/' %}
 {% elsif entry.website %}
   {% assign publication_url = entry.website %}
 {% endif %}
