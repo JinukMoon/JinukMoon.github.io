@@ -28,7 +28,7 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/assets/pdf/CV_JinukMoon_Mar24_2026.pdf";
+            window.location.href = "/cv/";
           },
         },{id: "nav-repositories",
           title: "repositories",
