@@ -30,4 +30,4 @@ latest_posts:
 
 <p>My research specifically targets the enhancement of density functional theory (DFT) and molecular dynamics (MD) simulations using machine learning algorithms, aiming to overcome the computational limitations of conventional methods and enable more efficient catalyst design and optimization.</p>
 
-<p>Outside of research, I enjoy playing tennis and squash, and spending time with family and friends.</p>
+<p>Outside of research, I enjoy playing tennis and squash, and spending time with family and friends. I am always open to research discussions and collaborations -- feel free to reach out for a coffee chat!</p>
