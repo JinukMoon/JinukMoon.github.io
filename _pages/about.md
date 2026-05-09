@@ -26,7 +26,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-<p>I am a passionate researcher dedicated to advancing the field of computational catalysis through innovative machine learning approaches. At the Computational Catalysis and Emerging Materials Laboratory (CCEL) under the guidance of Professor Jeong Woo Han at Seoul National University, I focus on developing novel catalysts and methodologies that bridge the gap between traditional computational methods and modern machine learning techniques.</p>
+<p>I am a passionate researcher dedicated to advancing the field of computational catalysis through innovative machine learning approaches. At the <a href="https://ccel.snu.ac.kr/">Computational Catalysis and Emerging Materials Laboratory (CCEL)</a> under the guidance of Professor Jeong Woo Han at Seoul National University, I focus on developing novel catalysts and methodologies that bridge the gap between traditional computational methods and modern machine learning techniques.</p>
 
 <p>My research specifically targets the enhancement of density functional theory (DFT) and molecular dynamics (MD) simulations using machine learning algorithms, aiming to overcome the computational limitations of conventional methods and enable more efficient catalyst design and optimization.</p>
 
+<p>Outside of research, I enjoy playing tennis and squash, and spending time with family and friends.</p>
