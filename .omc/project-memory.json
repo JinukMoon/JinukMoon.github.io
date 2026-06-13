@@ -1,0 +1,288 @@
+{
+  "version": "1.0.0",
+  "lastScanned": 1781328562207,
+  "projectRoot": "/home/jumoon/99_usefull/10_blog_io/JinukMoon.github.io",
+  "techStack": {
+    "languages": [
+      {
+        "name": "JavaScript/TypeScript",
+        "version": null,
+        "confidence": "high",
+        "markers": [
+          "package.json"
+        ]
+      },
+      {
+        "name": "Python",
+        "version": null,
+        "confidence": "high",
+        "markers": [
+          "requirements.txt"
+        ]
+      },
+      {
+        "name": "Ruby",
+        "version": null,
+        "confidence": "high",
+        "markers": [
+          "Gemfile"
+        ]
+      }
+    ],
+    "frameworks": [],
+    "packageManager": "bundler",
+    "runtime": null
+  },
+  "build": {
+    "buildCommand": null,
+    "testCommand": "npm test",
+    "lintCommand": null,
+    "devCommand": null,
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    }
+  },
+  "conventions": {
+    "namingStyle": null,
+    "importStyle": null,
+    "testPattern": null,
+    "fileOrganization": null
+  },
+  "structure": {
+    "isMonorepo": false,
+    "workspaces": [],
+    "mainDirectories": [
+      "assets",
+      "bin"
+    ],
+    "gitBranches": {
+      "defaultBranch": "main",
+      "branchingStrategy": null
+    }
+  },
+  "customNotes": [],
+  "directoryMap": {
+    "_bibliography": {
+      "path": "_bibliography",
+      "purpose": null,
+      "fileCount": 1,
+      "lastAccessed": 1781328562188,
+      "keyFiles": [
+        "papers.bib"
+      ]
+    },
+    "_books": {
+      "path": "_books",
+      "purpose": null,
+      "fileCount": 1,
+      "lastAccessed": 1781328562190,
+      "keyFiles": [
+        "the_godfather.md"
+      ]
+    },
+    "_data": {
+      "path": "_data",
+      "purpose": null,
+      "fileCount": 5,
+      "lastAccessed": 1781328562194,
+      "keyFiles": [
+        "coauthors.yml",
+        "cv.yml",
+        "repositories.yml",
+        "socials.yml",
+        "venues.yml"
+      ]
+    },
+    "_includes": {
+      "path": "_includes",
+      "purpose": null,
+      "fileCount": 22,
+      "lastAccessed": 1781328562197,
+      "keyFiles": [
+        "audio.liquid",
+        "bib_search.liquid",
+        "citation.liquid",
+        "disqus.liquid",
+        "distill_scripts.liquid"
+      ]
+    },
+    "_layouts": {
+      "path": "_layouts",
+      "purpose": null,
+      "fileCount": 12,
+      "lastAccessed": 1781328562198,
+      "keyFiles": [
+        "about.liquid",
+        "archive.liquid",
+        "bib.liquid",
+        "book-review.liquid",
+        "book-shelf.liquid"
+      ]
+    },
+    "_news": {
+      "path": "_news",
+      "purpose": null,
+      "fileCount": 9,
+      "lastAccessed": 1781328562198,
+      "keyFiles": [
+        "announcement_1.md",
+        "announcement_10.md",
+        "announcement_2.md",
+        "announcement_3.md",
+        "announcement_4.md"
+      ]
+    },
+    "_pages": {
+      "path": "_pages",
+      "purpose": null,
+      "fileCount": 14,
+      "lastAccessed": 1781328562199,
+      "keyFiles": [
+        "404.md",
+        "about.md",
+        "about_einstein.md",
+        "blog.md",
+        "books.md"
+      ]
+    },
+    "_plugins": {
+      "path": "_plugins",
+      "purpose": null,
+      "fileCount": 9,
+      "lastAccessed": 1781328562199,
+      "keyFiles": [
+        "cache-bust.rb",
+        "details.rb",
+        "download-3rd-party.rb",
+        "external-posts.rb",
+        "file-exists.rb"
+      ]
+    },
+    "_posts": {
+      "path": "_posts",
+      "purpose": null,
+      "fileCount": 31,
+      "lastAccessed": 1781328562199,
+      "keyFiles": [
+        "2015-03-15-formatting-and-links.md",
+        "2015-05-15-images.md",
+        "2015-07-15-code.md",
+        "2015-10-20-disqus-comments.md",
+        "2015-10-20-math.md"
+      ]
+    },
+    "_projects": {
+      "path": "_projects",
+      "purpose": null,
+      "fileCount": 9,
+      "lastAccessed": 1781328562200,
+      "keyFiles": [
+        "1_project.md",
+        "2_project.md",
+        "3_project.md",
+        "4_project.md",
+        "5_project.md"
+      ]
+    },
+    "_sass": {
+      "path": "_sass",
+      "purpose": null,
+      "fileCount": 8,
+      "lastAccessed": 1781328562200,
+      "keyFiles": [
+        "_base.scss",
+        "_cv.scss",
+        "_distill.scss",
+        "_layout.scss",
+        "_tabs.scss"
+      ]
+    },
+    "_scripts": {
+      "path": "_scripts",
+      "purpose": null,
+      "fileCount": 5,
+      "lastAccessed": 1781328562200,
+      "keyFiles": [
+        "cronitor-analytics-setup.js",
+        "google-analytics-setup.js",
+        "open-panel-analytics-setup.js",
+        "photoswipe-setup.js",
+        "search.liquid.js"
+      ]
+    },
+    "_site": {
+      "path": "_site",
+      "purpose": null,
+      "fileCount": 6,
+      "lastAccessed": 1781328562201,
+      "keyFiles": [
+        "404.html",
+        "feed.xml",
+        "index.html",
+        "requirements.txt",
+        "robots.txt"
+      ]
+    },
+    "assets": {
+      "path": "assets",
+      "purpose": "Static assets",
+      "fileCount": 0,
+      "lastAccessed": 1781328562201,
+      "keyFiles": []
+    },
+    "bin": {
+      "path": "bin",
+      "purpose": "Executable scripts",
+      "fileCount": 3,
+      "lastAccessed": 1781328562201,
+      "keyFiles": [
+        "cibuild",
+        "deploy",
+        "entry_point.sh"
+      ]
+    },
+    "lighthouse_results": {
+      "path": "lighthouse_results",
+      "purpose": null,
+      "fileCount": 0,
+      "lastAccessed": 1781328562202,
+      "keyFiles": []
+    },
+    "readme_preview": {
+      "path": "readme_preview",
+      "purpose": null,
+      "fileCount": 14,
+      "lastAccessed": 1781328562202,
+      "keyFiles": [
+        "al-folio-preview.png",
+        "blog.png",
+        "code.png",
+        "cv.png",
+        "dark.png"
+      ]
+    },
+    "vendor": {
+      "path": "vendor",
+      "purpose": "Third-party code",
+      "fileCount": 0,
+      "lastAccessed": 1781328562203,
+      "keyFiles": []
+    },
+    "_site/assets": {
+      "path": "_site/assets",
+      "purpose": "Static assets",
+      "fileCount": 0,
+      "lastAccessed": 1781328562206,
+      "keyFiles": []
+    }
+  },
+  "hotPaths": [
+    {
+      "path": "_config.yml",
+      "accessCount": 6,
+      "lastAccessed": 1781328920247,
+      "type": "file"
+    }
+  ],
+  "userDirectives": []
+}
