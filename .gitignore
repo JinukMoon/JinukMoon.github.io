@@ -12,3 +12,6 @@ node_modules/
 vendor
 .idea
 CLAUDE.md
+# OMC agent local state (do not commit)
+.omc/
+.claude/
