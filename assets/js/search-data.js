@@ -64,6 +64,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-on-oxygen-electrode-reaction-kinetics-for-reversible-solid-oxide-cells-has-been-published-in-nature-energy-featuring-large-scale-simulations-powered-by-catbench-selected-mlips",
           title: 'Our paper on oxygen electrode reaction kinetics for reversible solid oxide cells has...',
           description: "",
+          section: "News",},{id: "news-our-paper-using-machine-learning-interatomic-potentials-to-reveal-how-ru-cluster-size-reshapes-the-interfacial-water-structure-governing-alkaline-hydrogen-evolution-has-been-published-in-energy-amp-amp-environmental-science",
+          title: 'Our paper using machine learning interatomic potentials to reveal how Ru cluster size...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
