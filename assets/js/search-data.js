@@ -67,6 +67,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-using-machine-learning-interatomic-potentials-to-reveal-how-ru-cluster-size-reshapes-the-interfacial-water-structure-governing-alkaline-hydrogen-evolution-has-been-published-in-energy-amp-amp-environmental-science-where-i-contributed-as-co-first-author",
           title: 'Our paper using machine learning interatomic potentials to reveal how Ru cluster size...',
           description: "",
+          section: "News",},{id: "news-our-paper-on-charge-aware-knowledge-distillation-of-foundation-interatomic-potentials-has-been-accepted-to-the-ai-for-accelerated-materials-design-ai4mat-workshop-at-neurips-2026",
+          title: 'Our paper on charge-aware knowledge distillation of foundation interatomic potentials has been accepted...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
