@@ -23,6 +23,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/https:/www.catbench.org/";
           },
+        },{id: "nav-oh-my-mlip",
+          title: "oh-my-mlip",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/https:/oh-my-mlip.org/";
+          },
         },{id: "nav-cv",
           title: "CV",
           description: "",
