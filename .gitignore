@@ -15,3 +15,4 @@ CLAUDE.md
 # OMC agent local state (do not commit)
 .omc/
 .claude/
+.omx/
