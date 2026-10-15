@@ -16,3 +16,5 @@ CLAUDE.md
 .omc/
 .claude/
 .omx/
+# CV LaTeX source: local only, only the compiled PDF in assets/pdf/ is published
+cv/
