@@ -12,15 +12,19 @@ cv_pdf: /assets/pdf/CV_JinukMoon_Oct15_2026.pdf
 <style>
   #cv-frame {
     position: fixed;
+    top: 0;
     left: 0;
     width: 100%;
+    height: 100vh;
     border: 0;
+    z-index: 2000;
   }
 </style>
 
 <script>
-  // A PDF opened directly runs no analytics, so desktop browsers show it inside
-  // this page and GA can time the reading (cv_read, value = visible seconds).
+  // A PDF opened directly runs no analytics, so desktop browsers show it in a
+  // full-window frame over this page, looking like the PDF opened on its own,
+  // and GA can time the reading (cv_read, value = visible seconds).
   // Phones and tablets still jump to the PDF: iOS renders only the first page
   // of an embedded PDF.
   window.addEventListener('DOMContentLoaded', function () {
@@ -40,12 +44,12 @@ cv_pdf: /assets/pdf/CV_JinukMoon_Oct15_2026.pdf
     }
 
     var frame = document.getElementById('cv-frame');
-    var top = document.getElementById('navbar').offsetHeight;
-    frame.style.top = top + 'px';
-    frame.style.height = 'calc(100vh - ' + top + 'px)';
+    frame.addEventListener('load', function () {
+      frame.focus(); // keys (Space, arrows, Ctrl+F) go to the PDF right away
+    });
     frame.src = pdf;
     frame.hidden = false;
-    document.querySelector('footer').style.display = 'none';
+    document.title = pdf.split('/').pop();
     send('event', 'cv_open', { method: 'embed' });
 
     var since = Date.now();
