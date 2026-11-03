@@ -18,3 +18,13 @@ nav_order: 2
 {% bibliography %}
 
 </div>
+
+<!-- Year headings with the number of papers in that year, e.g. "2024 (2)" -->
+<script>
+  document.querySelectorAll(".publications h2.bibliography").forEach((h) => {
+    const list = h.nextElementSibling;
+    if (list && list.matches("ol.bibliography")) {
+      h.textContent += ` (${list.querySelectorAll(":scope > li").length})`;
+    }
+  });
+</script>
