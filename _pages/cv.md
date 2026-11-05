@@ -28,7 +28,8 @@ cv_pdf: /assets/pdf/CV_JinukMoon_Nov05_2026.pdf
   // Phones and tablets still jump to the PDF: iOS renders only the first page
   // of an embedded PDF.
   window.addEventListener('DOMContentLoaded', function () {
-    var pdf = '{{ page.cv_pdf | relative_url }}';
+    // ?v=<build time>: a CV republished under the same file name is not served from the browser cache
+    var pdf = '{{ page.cv_pdf | relative_url }}?v={{ site.time | date: "%s" }}';
     var send = typeof gtag === 'function' ? gtag : function () {};
 
     if (navigator.pdfViewerEnabled !== true || matchMedia('(pointer: coarse)').matches) {
@@ -49,7 +50,7 @@ cv_pdf: /assets/pdf/CV_JinukMoon_Nov05_2026.pdf
     });
     frame.src = pdf;
     frame.hidden = false;
-    document.title = pdf.split('/').pop();
+    document.title = pdf.split('?')[0].split('/').pop();
     send('event', 'cv_open', { method: 'embed' });
 
     var since = Date.now();
