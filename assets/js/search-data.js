@@ -83,6 +83,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-will-give-a-two-part-invited-webinar-series-machine-learning-interatomic-potentials-on-hpc-hosted-by-enccs-amp-amp-sweden-ai-factory-part-1-from-installation-to-benchmarking-dec-1-2026-and-part-2-from-fine-tuning-to-distillation-jan-21-2027",
           title: 'I will give a two-part invited webinar series, Machine Learning Interatomic Potentials on...',
           description: "",
+          section: "News",},{id: "news-our-paper-on-how-tuning-the-oxygen-evolution-mechanism-and-the-interfacial-water-structure-together-enables-efficient-acidic-water-oxidation-has-been-published-in-small-where-i-contributed-as-co-first-author",
+          title: 'Our paper on how tuning the oxygen evolution mechanism and the interfacial water...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
